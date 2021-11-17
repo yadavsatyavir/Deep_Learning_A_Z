@@ -8,6 +8,7 @@ column = ['CreditScore', 'Geography', 'Gender', 'Age', 'Tenure', 'Balance', 'Num
           'IsActiveMember', 'EstimatedSalary', 'Exited']
 
 
+
 df = df[column]
 
 df = pd.get_dummies(df, drop_first=True)
