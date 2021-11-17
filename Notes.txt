@@ -1,0 +1,6 @@
+Activation Functions:
+1. Threshold function
+2. Sigmoid
+3. Rectifier
+4. tanh
+
